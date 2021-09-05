@@ -36,7 +36,7 @@ outputs:
     - JSON
 
 # Enable Google Analytics
-googleAnalytics: G-R86606Y45F
+googleAnalytics: UA-206688233-1
 
 # Enable global emoji support
 enableEmoji: true
