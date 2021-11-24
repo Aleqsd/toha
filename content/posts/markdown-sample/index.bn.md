@@ -9,7 +9,7 @@ menu:
     weight: 30
 author:
   name: Alice Balique
-  image: /images/author/alice1.jpg
+  image: /images/author/alice.png
 math: true
 ---
 
