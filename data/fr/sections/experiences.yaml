@@ -12,53 +12,75 @@ section:
 experiences:
   - company:
       name: Piepacker
-      url: "https://www.example.com"
-      location: Dhaka Branch
+      url: "https://piepacker.com"
+      location: San Francisco (Remote)
       # company overview
-      overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+      overview: Content Writer au sein d'une start-up de la Silicon Valley de plateforme retrogaming. Travail au sein d'une équipe internationnalle en télétravail, gestion de l'ensemble des textes en bilingue français/anglais.
     positions:
-      - designation: Senior Software Engineer
-        start: Nov 2019
+      - designation: Content Writer & Translator
+        start: Sep 2020
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Design and develop XYZ tool for ABC task
-          - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-          - Lead backend team.
-
-      - designation: Junior Software Engineer
-        start: Nov 2017
-        end: Oct 2019
-        responsibilities:
-          - Implement and test xyz feature for abc tool.
-          - Support client for abc tool.
-          - Learn k,d,w technology for xyz.
-
-  - company:
-      name: PreExample Co.
-      url: "https://www.example.com"
-      location: Nowhere
-      overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-    positions:
-      - designation: Software Engineer
-        start: March 2016
-        end: May 2017
-        responsibilities:
-          - Write lots of example codes.
-          - Read lots of examples.
-          - See lots of example videos.
+          - Content Writing
+            - Culture d'entreprise
+            - Gaming et Retrogaming
+            - Documentation interne d'entreprise
+            - Processus d'onboarding d'employé
+            - Newsletter Mails marketings
+          - Traduction
+            - UX/UI Translation
+            - Mails transactionnels
+            - Synopsys des jeux (100+)
+            - Article de blog (Informatique et Gaming)
+            - Interview
+            - Social Media
+          - UX Writing
+          - Travail journalistique d'interview
 
   - company:
-      name: Intern Counting Company (ICC).
-      url: "https://www.example.com"
-      location: Intern Land
-      overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
+      name: Citizen K
+      url: "https://www.citizen-k.com"
+      location: France (remote)
+      overview: Traductrice d'articles de magazine Lifestyle sur des thèmes variés. Du français vers l'anglais en vue d'une publication au Moyen Orient.
     positions:
-      - designation: Intern
-        start: Jun 2015
-        end: Jan 2016
+      - designation: Traductrice
+        start: March 2021
+        # end: May 2017
         responsibilities:
-          - Count lost of interns.
-          - Count more interns.
-          - Count me as an intern.
+          - Traduction
+            - Art / Photographie
+            - Histoire de l'art
+            - Mode
+            - Voyage
+            - Musique
+            - Joaillerie / Horlogerie
+            - High-Tech
+            - Culture
+
+  - company:
+      name: Arkéotopia
+      url: "https://www.arkeotopia.org/"
+      location: France (remote)
+      overview: Traduction pour une association d'archéologie bénévole dont le but est de promouvoir le partage de connaissance et l'éducation dans ce domaine.
+    positions:
+      - designation: Traductrice (bénévole)
+        start: Jun 2021
+        # end: Jan 2016
+        responsibilities:
+          - Traduction d'articles du français vers l'anglais américain
+          - Champs lexical de l'archéologie, de la recherche, de la pédagogie, institutions d'état
+
+  - company:
+      name: Aix-Marseille Université
+      url: "https://www.univ-amu.fr/"
+      location: Aix-en-Provence, France
+      overview: Enseignement d'anglais à la faculté AMU en tant qu'attachée temporaire d'enseignement et de recherche, en distanciel et présentiel.
+    positions:
+      - designation: Enseignante (ATER)
+        start: Sep 2019
+        end: Sep 2021
+        responsibilities:
+          - Initiation à la version (L1 LLCE)
+          - Langue Anglaise LANSAD (L1, L2, L3)
