@@ -11,39 +11,38 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+  - name: Litterature anglaise
+    logo: /images/sections/skills/uk.png
+    summary: "Passionnée de litterature anglaise/américaine depuis toujours, je suis familière à la culture anglophone et j'ai développé un vocabulaire idiomatique varié."
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+  - name: Écriture créative
+    logo: /images/sections/skills/feather.png
+    summary: "Passionné de fiction, j'ai lu énormément de roman en français et en anglais, et j'écris mes propres romans en anglais, sur mon temps libre."
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  - name: Approche scientifique
+    logo: /images/sections/skills/tube.png
+    summary: "De par mon expérience dans des cursus scientifique et mes travaux bénévoles auprès de chercheurs, j'aime travailler sur des projets scientifiques ou qui requiert un point de vue critique et rigoureux."
 
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+  - name: Rédaction pour entreprise
+    logo: /images/sections/skills/case.png
+    summary: "De la conception et rédaction des valeurs jusqu'aux textes utilitaires pour les employés, en passant par l'élaboration de processus internes."
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+  - name: Linguistique
+    logo: /images/sections/skills/bubble.png
+    summary: "J'ai toujours été intéressée par la grammaire, l'étymologie et la phonétique des langues françaises et anglaises."
 
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  - name: Interdisciplinarité
+    logo: /images/sections/skills/puzzle.png
+    summary: "Grâce à mon parcours hétéroclite, je sais m'adapter à tout types de sujets et en apprécie leur complexité spécifiques. J'ai travailler dans de nouveaux domaines."
 
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+  - name: Approche bienveillante
+    logo: /images/sections/skills/smiley.png
+    summary: "Je pense que se tromper fait partie intégrante du processus d'apprentissage et n'est pas dévalorisant. Je privilegie une approche déculpabilisante, positive et bienveillante pour avancer ensemble vers l'épanouissement et la réussite."
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+  - name: Poésie
+    logo: /images/sections/skills/flower.png
+    summary: "La poésie est pour moi une façon d'aborder le monde de façon différente, j'en écris au quotidien dans des genres très variés."
+
+  - name: Connaissance du système éducatif français
+    logo: /images/sections/skills/teaching.png
+    summary: "Bac S mention très bien. 3 ans de classé préparatoire MPSI/MP. 2 ans d'école d'ingénieur en double cursus génie urbain, architecture. Double licence lettre moderne/LLCER Anglais. Master recherche en traduction et littérature. Deux années de doctorat en traduction littéraire."
