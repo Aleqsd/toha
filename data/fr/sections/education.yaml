@@ -10,80 +10,144 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
-  icon: fa-graduation-cap
-  timeframe: 2012-2016
-  institution:
-    name: University of XYZ
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
-  icon: fa-university
-  timeframe: 2010-2012
-  institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
-  icon: fa-school
-  timeframe: 2005-2010
-  institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+  - name: Doctorat en littérature et traduction (non terminé)
+    icon: fa-microscope
+    timeframe: 2019-2021
+    institution:
+      name: Laboratoire d'Études et de Recherche sur le Monde Anglophone (LERMA)
+      url: "https://lerma.univ-amu.fr"
+    # grade: #(optional)
+    #   scale: CGPA
+    #   achieved: 3.6
+    #   outOf: 4
+    publications: #(optional)
+      - title: « Les essais de David Humes et leurs traductions » sous la direction du Professeur Jean Viviès et du Docteure Sara Greaves.
+    #   url: "#"
+    # - title: Fusce eu augue ut odio porttitor pulvinar.
+    #   url: "#"
+    # - title: Nullam vitae orci tincidunt purus viverra pulvinar.
+    #   url: "#"
+
+  - name: Master Recherche Etudes Culturelles du Monde Anglophone (ECMA)
+    icon: fa-graduation-cap
+    timeframe: 2017-2019
+    institution:
+      name: Aix-Marseille University
+      url: "https://www.univ-amu.fr"
+    grade: #(optional)
+      scale: Mention
+      achieved: Très
+      outOf: Bien
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      courses:
+        - name: Traduction et Traductologie
+        - name: Litterature
+        - name: Mémoire (Sujet « Les traductions françaises de Terry Pratchett, The Colour of Magic »)
+        - name: Traduction créative
+        - name: Linguistique
+        - name: Création de roman
+        - name: Psycholinguistique / Sociolinguistique
+        - name: Phonétique
+        - name: Civilisation
+        - name: Travail Encadré de Recherche (Sujet « Les traductions en langue anglaise de Cyrano de Bergerac par Edmond Rostand »)
+        - name: Traduction littéraire
+        - name: Autobiographie et Autofiction
+        - name: Etude biographique
+
+  - name: Double Licence Lettres Modernes - Langues Litteratures Civilisations Etrangères
+    icon: fa-language
+    timeframe: 2014-2017
+    institution:
+      name: Aix-Marseille University
+      url: "https://www.univ-amu.fr"
+    grade: #(optional)
+      scale: Mention
+      achieved:
+      outOf: Bien
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      courses:
+        - name: Langue Anglaise (Grammaire, Linguisitique, Phonologie)
+        - name: Litterature Française
+        - name: Traduction (Thème, Version)
+        - name: Litterature Anglaise (Britanique / Americaine)
+        - name: Civilisation (Britanique / Americaine)
+        - name: Creative Writing (Narrative Fiction, Playwriting, Genre Fiction)
+        - name: Polonais
+        - name: Espagnol
+        - name: Histoire de la Langue
+        - name: Linguistique Française
+        - name: Stylistique
+        - name: Roman
+        - name: Méthodologie Documentaire
+
+  - name: Double Cursus Ingénieur Architecte
+    icon: fa-cogs
+    timeframe: 2012-2014
+    institution:
+      name: Ecole des Ingénieurs de la Ville de Paris (EIVP) + ENSAPLV
+      url: "https://www.eivp-paris.fr"
+    # grade: #(optional)
+    #   scale: Mention
+    #   achieved:
+    #   outOf: Bien
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      courses:
+        - name: Aménagement et gestion des espaces urbains
+        - name: Métabolisme de la Ville
+        - name: Construction et gestion du bâti
+        - name: Construction
+        - name: Aménagement et gestion des espaces urbains
+        - name: Mobilité - Transports
+        - name: Sciences Humaines et Sociales
+        - name: Outils numériques
+
+    # publications: #(optional)
+    #   - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    #     url: "#"
+    #   - title: Fusce eu augue ut odio porttitor pulvinar.
+    #     url: "#"
+    # extracurricularActivities: #(optional)
+    #   - In vitae facilisis est, eget porta sem.
+    #   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
+    #   - Duis sed massa feugiat, ornare justo et, aliquam est.
+    #   - Pellentesque ut fringilla magna.
+
+  - name: Classe préparatoire aux Grandes Ecoles MPSI/MP (Maths Physique Science de l'Ingénieur)
+    icon: fa-superscript
+    timeframe: 2009-2012
+    institution:
+      name: Lycée Thiers
+      url: "https://www.lyc-thiers.ac-aix-marseille.fr/"
+      # grade: #(optional)
+      #   scale: GPA
+      #   achieved: 5
+      #   outOf: 5
+    takenCourses: #(optional)
+      # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: false
+      courses:
+        - name: Préparation au concours Centrale
+        - name: Polytechnique-ESPCI-ENS (Mines / Ponts)
+        - name: Concours commun INP
+        - name: Algèbre (Structures algébriques, Calculs matriciels, Endomorphismes des espaces euclidiens...)
+        - name: Analyse (Fonctions convexes, Équations différentielles linéaires, Suites et séries de fonctions...)
+        - name: Probabilités (Variables aléatoires discrètes...)
+        - name: Démarche Scientifique (Démarche expérimentale, Résolution de problèmes, Approches documentaires...)
+        - name: Formation Expérimentale (Électricité, Optique, Thermodynamique, Chimie...)
+        - name: Formation Disciplinaire (Mécanique, Éléments de traitement du signal, Physique quantique, Électrochimie...)
+
+  - name: Bac - Série Scientifique
+    icon: fa-school
+    timeframe: 2006-2009
+    institution:
+      name: Lycée Français d'Alicante Pierre Deschamps - Espagne
+    grade: #(optional)
+      scale: Mention
+      achieved: Très
+      outOf: Bien
