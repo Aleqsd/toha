@@ -63,7 +63,7 @@ other = "sur"
 other = "Publications"
 
 [taken_courses]
-other = "Taken Courses"
+other = "Cours suivis"
 
 [course_name]
 other = "Cours suivis"
@@ -84,13 +84,13 @@ other = "En savoir plus"
 other = "Montrer moins"
 
 # [responsibilities]
-# other = "Responsibilities:"
+# other = "Responsabilités :"
 
 # [present]
-# other = "Present"
+# other = "Aujourd'hui"
 
 # [comments_javascript]
-# other = "Please enable JavaScript to view the"
+# other = "Veuillez activer JavaScript pour afficher le"
 
 # [comments_by]
 # other = "comments powered by"
@@ -105,7 +105,7 @@ other = "Lire"
 other = "Détails"
 
 # [err_404]
-# other = "The page you are looking for is not there yet."
+# other = "La page que vous recherchez n'est pas encore disponible."
 
 [more]
 other = "Suite"
