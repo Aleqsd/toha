@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: À propos
   id: about
   enable: true
   weight: 1
@@ -34,10 +34,6 @@ socialLinks:
   #   icon: "fab fa-github"
   #   url: "https://www.github.com/example"
 
-  # - name: Stackoverflow
-  #   icon: "fab fa-stack-overflow"
-  #   url: "#"
-
   - name: LinkedIn
     icon: "fab fa-linkedin"
     url: "https://www.linkedin.com/in/alice-balique/"
@@ -46,9 +42,13 @@ socialLinks:
   #   icon: "fab fa-twitter"
   #   url: "#"
 
-  # - name: Facebook
-  #   icon: "fab fa-facebook"
-  #   url: "#"
+  - name: Facebook
+    icon: "fab fa-facebook"
+    url: "#"
+
+  - name: Whatsapp
+    icon: "fab fa-whatsapp"
+    url: "#"
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.

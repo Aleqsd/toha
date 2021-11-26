@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Expériences
   id: experiences
   enable: true
   weight: 3
@@ -17,7 +17,7 @@ experiences:
       # company overview
       overview: Content Writer au sein d'une start-up de la Silicon Valley de plateforme retrogaming. Travail au sein d'une équipe internationnalle en télétravail, gestion de l'ensemble des textes en bilingue français/anglais.
     positions:
-      - designation: Content Writer & Translator
+      - designation: Rédactrice et Traductrice
         start: Sep 2020
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
@@ -46,7 +46,7 @@ experiences:
       overview: Traductrice d'articles de magazine Lifestyle sur des thèmes variés. Du français vers l'anglais en vue d'une publication au Moyen Orient.
     positions:
       - designation: Traductrice
-        start: March 2021
+        start: Mars 2021
         # end: May 2017
         responsibilities:
           - Traduction
@@ -65,8 +65,8 @@ experiences:
       location: France (remote)
       overview: Traduction pour une association d'archéologie bénévole dont le but est de promouvoir le partage de connaissance et l'éducation dans ce domaine.
     positions:
-      - designation: Traductrice (bénévole)
-        start: Jun 2021
+      - designation: Traductrice (Bénévole)
+        start: Juin 2021
         # end: Jan 2016
         responsibilities:
           - Traduction d'articles du français vers l'anglais américain
@@ -84,3 +84,19 @@ experiences:
         responsibilities:
           - Initiation à la version (L1 LLCE)
           - Langue Anglaise LANSAD (L1, L2, L3)
+
+  - company:
+      name: Vinci
+      # url: "https://www.univ-amu.fr/"
+      location: Paris, France
+      overview: Préparation au métier d'ingénieur urbain au sein de l'entreprise Vinci dans différentes structures.
+    positions:
+      - designation: Ingénieur urbain (Stage)
+        start: Juin 2014
+        end: Sep 2014
+        responsibilities:
+          - Management d'ouvriers
+          - Respects des codes de sécurité
+          - Calcul de logistique/stocks
+          - Respects des codes de sécurité
+          - Mesure de qualité d'air
